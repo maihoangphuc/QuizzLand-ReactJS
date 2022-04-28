@@ -1,0 +1,342 @@
+
+{
+    "animal": [
+     {
+         "id": 1,
+         "question": " Kiến làm gì khi đồng loại chết trong tổ? ",
+         "answers":
+             {
+                 "answer1": { "content": "A. Chúng ăn con chết", "isTrue":"false", "isClicked":"false"},
+                 "answer2": {
+                     "content": "B.Chúng chôn cất con chết",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 }
+             },
+         "explanation": "Kiến rất có ý thức bảo vệ tổ của mình. Khi một con kiến chết trong tổ, chúng phát hiện bằng cách ngửi thấy mùi lạ và sẽ 'đưa tang' bằng cách tha xác chết ra ngoài, vứt vào một nơi cụ thể nhằm giữ môi trường sạch sẽ, không bị lây lan mầm bệnh. Đàn kiến thường phân công công việc cho nhau, do đó trong đàn có một số con có nhiệm vụ tha xác chết đồng loại ra ngoài."
+     },
+     {
+         "id": 2,
+         "question": "Lười ba ngón có khả năng quay đầu bao nhiêu độ?",
+         "answers":
+             {
+                 "answer1": { "content": "A. 200 độ", "isTrue": "false", "isClicked":"false"},
+                 "answer2": {
+                     "content": "B. 270 độ",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 }
+             },
+         "explanation": "Lười ba ngón có thể xoay đầu đến 270 độ, tài tình như khả năng của loài cú. Chúng làm được điều này là bởi cấu trúc cổ độc đáo với 9 đốt sống cổ, trong khi hầu hết động vật có vú chỉ có 7 đốt. "
+     },
+     {
+         "id": 3,
+         "question": "Gấu koala ngủ bao nhiêu tiếng mỗi ngày?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. 18-22 tiếng",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. 10-12 tiếng", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "Gấu koala (gấu túi) là loài thú có túi ở Australia, ăn thực vật. Đây là một trong những loài mê ngủ nhất trong thế giới động vật, dành hơn 20 tiếng để ngủ và nghỉ ngơi. Việc này nhằm tiết kiệm năng lượng bởi thức ăn chính của koala là lá bạch đàn, loại thực phẩm năng lượng thấp.                 "
+     },
+     {
+         "id": 4,
+         "question": "Gấu Bắc Cực có da màu gì?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. Đen",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. Trắng", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "Gấu Bắc Cực được nhận ra bởi bộ lông trắng đặc trưng, tuy nhiên, thực tế lông của chúng không màu và trong suốt, gần như tàng hình khi nhìn dưới tia hồng ngoại. Da của nó có màu đen."
+     },
+     {
+         "id": 5,
+         "question": "Rùa Galapagos có thể sống được bao lâu?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. 150 năm",
+                     "isTrue": "true",
+                     "isClicked": "false"
+                 },
+                 "answer2": { "content":  "B. 50 năm", "isTrue": "false", "isClicked": "false"}
+             },
+         "explanation": "Rùa sống thọ nhất trong số những động vật có xương sống, lâu hơn cả con người. Loài rùa Galapagos có tuổi thọ trung bình trên 100 năm, kỷ lục là 152 năm tuổi, theo National Geographic. Đây cũng là loài rùa lớn nhất thế giới, một số con dài trên 1,5 mét và nặng đến 250kg. Chúng ngủ gần 16 tiếng mỗi ngày, trao đổi chất chậm, trữ nhiều nước, do đó có thể sống được đến một năm mà không ăn hoặc uống.  "
+     },
+     {
+         "id": 6,
+         "question": "Con gì chân ngắn, Mà lại có màng, Mỏ bẹt màu vàng, Hay kêu cạp cạp?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. Con vịt",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. Con gà", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "lorem ipsum"
+     },
+     {
+         "id": 7,
+         "question": "Cái mỏ xinh xinh, Hai chân tí xíu, Lông vàng mát dị, 'Chiếp! Chiếp!' suốt ngày",
+         "answers": {
+             "answer1": {
+                 "content": "A. Con gà",
+                 "isTrue": "true",
+                 "isClicked":"false"
+             },
+             "answer2": { "content":  "B. Con vịt", "isTrue": "false", "isClicked":"false"}
+         },
+     "explanation": "lorem ipsum"
+     },
+     {
+         "id": 8,
+         "question": "Thường nằm đầu hè, Giữ cho nhà chủ, Người lạ nó sủa, Người quen nó mừng, Là con gì?",
+         "answers":
+         {
+             "answer1": {
+                 "content": "A. Con chó",
+                 "isTrue": "true",
+                 "isClicked": "false"
+             },
+             "answer2": { "content":  "B. Con mèo", "isTrue": "false", "isClicked": "false"}
+         },
+     "explanation": "lorem ipsum"
+     }
+ ],
+    "history": [
+     {
+         "id": 1,
+         "question": " Invented in 1603 by German astronomer Christoph Scheiner, which instrument was used for copying a drawing on an enlarged or a reduced scale in a given ratio?",
+         "answers":
+             {
+                 "answer1": { "content": "A. protractor", "isTrue":"false", "isClicked":"false"},
+                 "answer2": {
+                     "content": "B. pictograph",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 }
+             },
+         "explanation": "Kiến rất có ý thức bảo vệ tổ của mình. Khi một con kiến chết trong tổ, chúng phát hiện bằng cách ngửi thấy mùi lạ và sẽ 'đưa tang' bằng cách tha xác chết ra ngoài, vứt vào một nơi cụ thể nhằm giữ môi trường sạch sẽ, không bị lây lan mầm bệnh. Đàn kiến thường phân công công việc cho nhau, do đó trong đàn có một số con có nhiệm vụ tha xác chết đồng loại ra ngoài."
+     },
+     {
+         "id": 2,
+         "question": "From the 16th century onward, the speed of a ship was measured by what English invention?",
+         "answers":
+             {
+                 "answer1": { "content": "A. recorder", "isTrue": "false", "isClicked":"false"},
+                 "answer2": {
+                     "content": "B. nautilus",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 }
+             },
+         "explanation": "lorem ipsum"
+     },
+     {
+         "id": 3,
+         "question": "Which astronomer, mathematician, and geographer developed a geocentric (earth-centered) model of the universe?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. Aryabhata",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. 10-12 tiếng", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "Gấu koala (gấu túi) là loài thú có túi ở Australia, ăn thực vật. Đây là một trong những loài mê ngủ nhất trong thế giới động vật, dành hơn 20 tiếng để ngủ và nghỉ ngơi. Việc này nhằm tiết kiệm năng lượng bởi thức ăn chính của koala là lá bạch đàn, loại thực phẩm năng lượng thấp.                 "
+     },
+     {
+         "id": 4,
+         "question": "Which shadow clock consists of a straight base with a raised crosspiece at one end?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. obelisk",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. time ball", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "Gấu Bắc Cực được nhận ra bởi bộ lông trắng đặc trưng, tuy nhiên, thực tế lông của chúng không màu và trong suốt, gần như tàng hình khi nhìn dưới tia hồng ngoại. Da của nó có màu đen."
+     },
+     {
+         "id": 5,
+         "question": "Which is an accurate, portable timekeeping device often used for determining longitude at sea?pendulum clock chronometer hourglass Henlein watch",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. pendulum clock",
+                     "isTrue": "true",
+                     "isClicked": "false"
+                 },
+                 "answer2": { "content":  "B. chronometer", "isTrue": "false", "isClicked": "false"}
+             },
+         "explanation": "Rùa sống thọ nhất trong số những động vật có xương sống, lâu hơn cả con người. Loài rùa Galapagos có tuổi thọ trung bình trên 100 năm, kỷ lục là 152 năm tuổi, theo National Geographic. Đây cũng là loài rùa lớn nhất thế giới, một số con dài trên 1,5 mét và nặng đến 250kg. Chúng ngủ gần 16 tiếng mỗi ngày, trao đổi chất chậm, trữ nhiều nước, do đó có thể sống được đến một năm mà không ăn hoặc uống.  "
+     },
+     {
+         "id": 6,
+         "question": "Which is an ancient device for measuring time by the gradual flow of water?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. merkhet",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. sundial", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "lorem ipsum"
+     },
+     {
+         "id": 7,
+         "question": "What is the mechanism in a watch or clock that controls the transfer of energy from the power source to the counting mechanism?",
+         "answers": {
+             "answer1": {
+                 "content": "A. bezel",
+                 "isTrue": "true",
+                 "isClicked":"false"
+             },
+             "answer2": { "content":  "B. pendulum", "isTrue": "false", "isClicked":"false"}
+         },
+     "explanation": "lorem ipsum"
+     },
+     {
+         "id": 8,
+         "question": "What type of sundial consists of a gnomon that casts a shadow on a hollow sphere?",
+         "answers":
+         {
+             "answer1": {
+                 "content": "A. pros ta historoumena",
+                 "isTrue": "true",
+                 "isClicked": "false"
+             },
+             "answer2": { "content":  "B. Azimuth dial", "isTrue": "false", "isClicked": "false"}
+         },
+     "explanation": "lorem ipsum"
+     }
+ ],
+    "culture": [
+     {
+         "id": 1,
+         "question": " Which is an early astronomical device for representing the great circles of the heavens?",
+         "answers":
+             {
+                 "answer1": { "content": "A. celatone", "isTrue":"false", "isClicked":"false"},
+                 "answer2": {
+                     "content": "B. armillary sphere",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 }
+             },
+         "explanation": "Kiến rất có ý thức bảo vệ tổ của mình. Khi một con kiến chết trong tổ, chúng phát hiện bằng cách ngửi thấy mùi lạ và sẽ 'đưa tang' bằng cách tha xác chết ra ngoài, vứt vào một nơi cụ thể nhằm giữ môi trường sạch sẽ, không bị lây lan mầm bệnh. Đàn kiến thường phân công công việc cho nhau, do đó trong đàn có một số con có nhiệm vụ tha xác chết đồng loại ra ngoài."
+     },
+     {
+         "id": 2,
+         "question": "What simple measuring device is a semicircular disk graduated in degrees from 0 to 180?",
+         "answers":
+             {
+                 "answer1": { "content": "A. protractor", "isTrue": "false", "isClicked":"false"},
+                 "answer2": {
+                     "content": "B. abacus",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 }
+             },
+         "explanation": "lorem ipsum"
+     },
+     {
+         "id": 3,
+         "question": "What early scientific instrument used for reckoning time and for observational purposes came into wide use beginning in the early Middle Ages in Europe and the Islamic world?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. astrolabe",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. cross-staff", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "Gấu koala (gấu túi) là loài thú có túi ở Australia, ăn thực vật. Đây là một trong những loài mê ngủ nhất trong thế giới động vật, dành hơn 20 tiếng để ngủ và nghỉ ngơi. Việc này nhằm tiết kiệm năng lượng bởi thức ăn chính của koala là lá bạch đàn, loại thực phẩm năng lượng thấp.                 "
+     },
+     {
+         "id": 4,
+         "question": "Which is a Chinese jade form found in the Shang and Zhou dynasties that may have been used as an astronomical instrument to plot the location of the stars?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. xuanji",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. bi", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "Gấu Bắc Cực được nhận ra bởi bộ lông trắng đặc trưng, tuy nhiên, thực tế lông của chúng không màu và trong suốt, gần như tàng hình khi nhìn dưới tia hồng ngoại. Da của nó có màu đen."
+     },
+     {
+         "id": 5,
+         "question": "Which Scottish inventor discovered logarithms, by means of which addition replaces multiplication and subtraction replaces division?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. Colin Maclaurin",
+                     "isTrue": "true",
+                     "isClicked": "false"
+                 },
+                 "answer2": { "content":  "B. John Napier", "isTrue": "false", "isClicked": "false"}
+             },
+         "explanation": "Rùa sống thọ nhất trong số những động vật có xương sống, lâu hơn cả con người. Loài rùa Galapagos có tuổi thọ trung bình trên 100 năm, kỷ lục là 152 năm tuổi, theo National Geographic. Đây cũng là loài rùa lớn nhất thế giới, một số con dài trên 1,5 mét và nặng đến 250kg. Chúng ngủ gần 16 tiếng mỗi ngày, trao đổi chất chậm, trữ nhiều nước, do đó có thể sống được đến một năm mà không ăn hoặc uống.  "
+     },
+     {
+         "id": 6,
+         "question": "The invention of which basic surveying instrument used to measure horizontal and vertical angles is often credited to English mathematician Leonard Digges?",
+         "answers":
+             {
+                 "answer1": {
+                     "content": "A. tribrach",
+                     "isTrue": "true",
+                     "isClicked":"false"
+                 },
+                 "answer2": { "content":  "B. theodolite", "isTrue": "false", "isClicked":"false"}
+             },
+         "explanation": "lorem ipsum"
+     },
+     {
+         "id": 7,
+         "question": "What surveyor's compass with diametrical projecting arms is sometimes called a “Holland circle”?",
+         "answers": {
+             "answer1": {
+                 "content": "A. prismatic compass",
+                 "isTrue": "true",
+                 "isClicked":"false"
+             },
+             "answer2": { "content":  "B. circumferentor", "isTrue": "false", "isClicked":"false"}
+         },
+     "explanation": "lorem ipsum"
+     },
+     {
+         "id": 8,
+         "question": "What type of sundial consists of a gnomon that casts a shadow on a hollow sphere?",
+         "answers":
+         {
+             "answer1": {
+                 "content": "A. pros ta historoumena",
+                 "isTrue": "true",
+                 "isClicked": "false"
+             },
+             "answer2": { "content":  "B. Azimuth dial", "isTrue": "false", "isClicked": "false"}
+         },
+     "explanation": "lorem ipsum"
+     }
+ ]
+ }
